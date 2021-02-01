@@ -35,7 +35,7 @@ Educational attainment
 Employment status
 Income
 
-and two statistical tests to assess whether:
+and two statistical tests to assess whether:<br>
 Education affects poverty level
 Poverty level affects health status
 
