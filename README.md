@@ -26,18 +26,18 @@ Except for one column, all columns are integers. Two columns contain continuous 
 
 In addition, the analyses only look at data for race White and Black in the race column. Using this modified dataset, eight statistical tests are conducted to assess whether race (White and Black) affects:
 
-<ul><li>Receiving financial assistance</li></ul><br>
-Poverty level<br>
-Having health insurance coverage<br>
-Health status<br>
-Receiving medicaid<br>
-Educational attainment<br>
-Employment status<br>
-Income
+<ul><li>Receiving financial assistance</li><br>
+<li>Poverty level</li><br>
+<li>Having health insurance coverage</li><br>
+<li>Health status</li><br>
+<li>Receiving medicaid</li><br>
+<li>Educational attainment</li><br>
+<li>Employment status</li><br>
+<li>Income</li></ul>
 
 and two statistical tests to assess whether:<br>
-Education affects poverty level<br>
-Poverty level affects health status
+<ul><li>Education affects poverty level</li><br>
+<li>Poverty level affects health status</li></ul>
 
 Statistical tests run in this analysis:<br>
 Chi-Square test<br>
